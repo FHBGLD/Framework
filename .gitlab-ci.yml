@@ -11,7 +11,8 @@ stages:
 
 sast:
   stage: test
-  tags: rnd02
+  tags:
+    - rnd02
 
 include:
 - template: Security/SAST.gitlab-ci.yml
@@ -22,4 +23,5 @@ variables:
 
 secret_detection:
   stage: secret-detection
-  tags: rnd02  
+  tags:
+    - rnd02
