@@ -1,0 +1,23 @@
+# CI/CD
+/.gitlab-ci.yml        export-ignore
+/.github/              export-ignore
+
+# Dev/config files
+/.gitignore            export-ignore
+/.gitattributes        export-ignore
+/.editorconfig         export-ignore
+
+# Documentation
+/README.md             export-ignore
+/CHANGELOG.md          export-ignore
+/docs/                 export-ignore
+
+# Tests
+/tests/                export-ignore
+/phpunit.xml           export-ignore
+/phpunit.xml.dist      export-ignore
+
+# Other dev files
+/phpstan.neon          export-ignore
+/phpcs.xml             export-ignore
+/.php-cs-fixer.php     export-ignore
