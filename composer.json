@@ -1,0 +1,19 @@
+{
+    "name": "hawb/framework",
+    "description": "MVC Framework for all new developtments of hawb",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hawb\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Fiebrich-Christ",
+            "email": "martin.fiebrich-christ@hochschule-burgenland.at"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
