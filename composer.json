@@ -1,6 +1,6 @@
 {
     "name": "hawb/framework",
-    "description": "MVC Framework for all new developtments of hawb",
+    "description": "MVC Framework for all new developments of hawb",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
