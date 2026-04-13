@@ -1,6 +1,6 @@
 <?php
 
-namespace Hawb\Framework;
+namespace Hawb\Framework\Exceptions;
 
 use DomainException;
 
